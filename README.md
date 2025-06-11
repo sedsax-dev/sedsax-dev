@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sedsax-dev
+- 👋 Hi, I’m Seda
 
 <!---
 sedsax-dev/sedsax-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
